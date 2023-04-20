@@ -8,16 +8,7 @@ Ask Question - Create a question with description and tags
 
 Detail view - Clicking any link in the home page, redirects to detailed view ( Like / dislike feature increase/decrease the count value)
 
-
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
+ 
 ## Project Setup
 
 ```sh
@@ -40,4 +31,10 @@ npm run server
 
 ```sh
 npm run build
+```
+
+### Unit testing
+
+```sh
+npm run test:unit
 ```
