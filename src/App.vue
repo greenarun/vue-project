@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>  
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/create">Create</RouterLink> 
+        <RouterLink to="/create">Ask Question</RouterLink> 
       </nav> 
   </header> 
   <RouterView />
@@ -20,7 +20,7 @@ header {
 }
  
 nav { 
-  font-size: 12px;  
+  font-size: 15px;  
   float: right;
   padding: 15px;
 
