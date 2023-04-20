@@ -2,7 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
+      "title": "Uploading file to amazon s3 using fastapi python and svelte typescript fetch api",
+      "description": "I am sending file in formData fron typescript using fetch api and hitting fastapi to upload the file to amazon s3. When I am using the api docks it is working and flie is uploading but then I am",
+      "tags":["python","typescript","fetch","fastapi","form-data"],
+      "votes":2,
+      "answers":4,
+      "views":4,
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Uploading file to amazon s3 using fastapi python and svelte typescript fetch api",
+      "description": "I am sending file in formData fron typescript using fetch api and hitting fastapi to upload the file to amazon s3. When I am using the api docks it is working and flie is uploading but then I am",
+      "tags":["python","typescript","fetch","fastapi","form-data"],
+      "votes":2,
+      "answers":4,
+      "views":4,
       "author": "typicode"
     }
   ],
