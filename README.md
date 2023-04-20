@@ -3,7 +3,9 @@
 Pages 
 
 Home - View the list of questions
+
 Ask Question - Create a question with description and tags
+
 Detail view - Clicking any link in the home page, redirects to detailed view ( Like / dislike feature increase/decrease the count value)
 
 
